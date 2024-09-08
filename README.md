@@ -1,2 +1,2 @@
-# ID-BusinessEnd
+# RD-BusinessEnd
 Investigation + Development for business
